@@ -11,7 +11,7 @@
 ### Project Overview:
 This project involves an in-depth Exploratory Data Analysis (EDA) and Data Cleaning of a dataset related to global layoffs from 2020 to 2024. 
 The primary objective of this analysis is to identify patterns, trends, and key insights regarding layoffs across various industries, companies, 
-and countries during this period, particularly focusing on the impact of the COVID-19 pandemic and subsequent economic shifts/
+and countries during this period, particularly focusing on the impact of the COVID-19 pandemic and subsequent economic shifts.
 
 ### Dataset
 The dataset used for this analysis was sourced from Kaggle and includes information on layoffs from 2020-2024 sourced from Bloomberg,
