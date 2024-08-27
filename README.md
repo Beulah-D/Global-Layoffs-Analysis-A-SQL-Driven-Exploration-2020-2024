@@ -19,7 +19,7 @@ San Francisco Business Times,Tech Crunch and New York Times
 Key features include company, locations, number of people laid off, stage of the company, country [click here](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
 ### Tools Used
-1. Mysql - EDA and Visualization
+1. Mysql - EDA and Visualization, skills used : CTE's, Aggregate Functions
 2. Tableau -Visualization and creating Dashboard
 
 ### Key Insights
